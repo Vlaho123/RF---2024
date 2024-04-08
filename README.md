@@ -1,3 +1,5 @@
+#RF lab4
+
 import os, sys, optparse
 from exif import Image
 import webbrowser
